@@ -1,11 +1,11 @@
 {
   "typescript.preferences.importModuleSpecifier": "relative",
   "editor.codeActionsOnSave": {
-    "source.organizeImports": true
+    "source.organizeImports": "explicit"
   },
   "files.associations": {
     "*.spec.ts": "typescript"
   },
-  "playwright.showTrace": true,
-  "playwright.reuseBrowser": true
+  "playwright.showTrace": false,
+  "playwright.reuseBrowser": false
 }
